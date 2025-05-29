@@ -1,0 +1,47 @@
+{
+    "Boss": {
+        "checkpoints": [
+            {
+                "steps": 499940,
+                "file_path": "results\\test_7\\Boss\\Boss-499940.onnx",
+                "reward": 0.0,
+                "creation_time": 1720667298.1646066,
+                "auxillary_file_paths": [
+                    "results\\test_7\\Boss\\Boss-499940.pt"
+                ]
+            },
+            {
+                "steps": 999940,
+                "file_path": "results\\test_7\\Boss\\Boss-999940.onnx",
+                "reward": 2.25,
+                "creation_time": 1720667587.9685087,
+                "auxillary_file_paths": [
+                    "results\\test_7\\Boss\\Boss-999940.pt"
+                ]
+            },
+            {
+                "steps": 1113124,
+                "file_path": "results\\test_7\\Boss\\Boss-1113124.onnx",
+                "reward": 4.75,
+                "creation_time": 1720667656.0192695,
+                "auxillary_file_paths": [
+                    "results\\test_7\\Boss\\Boss-1113124.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1113124,
+            "file_path": "results\\test_7\\Boss.onnx",
+            "reward": 4.75,
+            "creation_time": 1720667656.0192695,
+            "auxillary_file_paths": [
+                "results\\test_7\\Boss\\Boss-1113124.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

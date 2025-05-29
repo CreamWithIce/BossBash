@@ -1,0 +1,56 @@
+{
+    "Boss": {
+        "checkpoints": [
+            {
+                "steps": 499940,
+                "file_path": "results\\move_test_1\\Boss\\Boss-499940.onnx",
+                "reward": 19.25,
+                "creation_time": 1720695486.6115186,
+                "auxillary_file_paths": [
+                    "results\\move_test_1\\Boss\\Boss-499940.pt"
+                ]
+            },
+            {
+                "steps": 651256,
+                "file_path": "results\\move_test_1\\Boss\\Boss-651256.onnx",
+                "reward": 23.5,
+                "creation_time": 1720695588.9404454,
+                "auxillary_file_paths": [
+                    "results\\move_test_1\\Boss\\Boss-651256.pt"
+                ]
+            },
+            {
+                "steps": 999964,
+                "file_path": "results\\move_test_1\\Boss\\Boss-999964.onnx",
+                "reward": 85.0,
+                "creation_time": 1720696630.780093,
+                "auxillary_file_paths": [
+                    "results\\move_test_1\\Boss\\Boss-999964.pt"
+                ]
+            },
+            {
+                "steps": 1201172,
+                "file_path": "results\\move_test_1\\Boss\\Boss-1201172.onnx",
+                "reward": 135.0,
+                "creation_time": 1720696747.6244037,
+                "auxillary_file_paths": [
+                    "results\\move_test_1\\Boss\\Boss-1201172.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1201172,
+            "file_path": "results\\move_test_1\\Boss.onnx",
+            "reward": 135.0,
+            "creation_time": 1720696747.6244037,
+            "auxillary_file_paths": [
+                "results\\move_test_1\\Boss\\Boss-1201172.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

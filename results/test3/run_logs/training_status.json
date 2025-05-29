@@ -1,0 +1,29 @@
+{
+    "Boss": {
+        "checkpoints": [
+            {
+                "steps": 272356,
+                "file_path": "results\\test3\\Boss\\Boss-272356.onnx",
+                "reward": null,
+                "creation_time": 1719701975.2112958,
+                "auxillary_file_paths": [
+                    "results\\test3\\Boss\\Boss-272356.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 272356,
+            "file_path": "results\\test3\\Boss.onnx",
+            "reward": null,
+            "creation_time": 1719701975.2112958,
+            "auxillary_file_paths": [
+                "results\\test3\\Boss\\Boss-272356.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

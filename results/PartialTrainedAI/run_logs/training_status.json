@@ -1,0 +1,65 @@
+{
+    "Boss": {
+        "checkpoints": [
+            {
+                "steps": 999940,
+                "file_path": "results\\move_test_3\\Boss\\Boss-999940.onnx",
+                "reward": 129.5,
+                "creation_time": 1720741017.6719785,
+                "auxillary_file_paths": [
+                    "results\\move_test_3\\Boss\\Boss-999940.pt"
+                ]
+            },
+            {
+                "steps": 1499940,
+                "file_path": "results\\move_test_3\\Boss\\Boss-1499940.onnx",
+                "reward": 181.5,
+                "creation_time": 1720741314.691366,
+                "auxillary_file_paths": [
+                    "results\\move_test_3\\Boss\\Boss-1499940.pt"
+                ]
+            },
+            {
+                "steps": 1999940,
+                "file_path": "results\\move_test_3\\Boss\\Boss-1999940.onnx",
+                "reward": 228.0,
+                "creation_time": 1720741605.5926836,
+                "auxillary_file_paths": [
+                    "results\\move_test_3\\Boss\\Boss-1999940.pt"
+                ]
+            },
+            {
+                "steps": 2499940,
+                "file_path": "results\\move_test_3\\Boss\\Boss-2499940.onnx",
+                "reward": 233.5,
+                "creation_time": 1720741897.849807,
+                "auxillary_file_paths": [
+                    "results\\move_test_3\\Boss\\Boss-2499940.pt"
+                ]
+            },
+            {
+                "steps": 2539504,
+                "file_path": "results\\move_test_3\\Boss\\Boss-2539504.onnx",
+                "reward": 239.0,
+                "creation_time": 1720741936.5656536,
+                "auxillary_file_paths": [
+                    "results\\move_test_3\\Boss\\Boss-2539504.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2539504,
+            "file_path": "results\\move_test_3\\Boss.onnx",
+            "reward": 239.0,
+            "creation_time": 1720741936.5656536,
+            "auxillary_file_paths": [
+                "results\\move_test_3\\Boss\\Boss-2539504.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
