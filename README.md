@@ -1,4 +1,4 @@
-![image](./images/TitleCard.png)
+![Title card](https://github.com/CreamWithIce/BossBash/blob/main/Images/TitleCard.png)
 ## Welcome!
 <p>
 Hi there!
@@ -59,10 +59,10 @@ To stop the training press exit run time to terminate training
 
 ## Images
 
-![image](./images/Game.png)
+![Gameplay](https://github.com/CreamWithIce/BossBash/blob/main/Images/Game.png)
 Playing the game
 
-![image](./images/Training.png)
+![Training Scene](https://github.com/CreamWithIce/BossBash/blob/main/Images/Training.png)
 AI Training
 
 ## Final notes
