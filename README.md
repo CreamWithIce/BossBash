@@ -1,3 +1,4 @@
+![image](images/TitleCard.png)
 ## Welcome!
 <p>
 Hi there!
@@ -41,7 +42,7 @@ NOTE: The project used CUDA for training the ML model. Please install the [NVIDI
 
 (P.S. there is nintendo/xbox controller support and basic settings menu)
 
-### Training
+## Training
 <p>
 To train the underlying AI head to the training scene in unity
 
@@ -56,10 +57,18 @@ To stop the training press exit run time to terminate training
 
 </p>
 
+## Images
+
+![image](images/Game.png)
+Playing the game
+
+![image](images/Training.png)
+AI Training
+
 ## Final notes
 <p>
-
-- The way the code/comments have been formatted were based on the rubric criteria for the project for VCE Software Development
+ 
+ - The way the code/comments have been formatted were based on the rubric criteria for the project for VCE Software Development
 
 - I wanted to make the project aesthetically appealing and engaging so I added controller support, and gave it a lava theme based on feedback from peers. <br>
 Controller provides an added difficulty as there isn't the "auto-aim" that is found with the mouse
@@ -67,3 +76,4 @@ Controller provides an added difficulty as there isn't the "auto-aim" that is fo
 - Unity physics is inconsistent with the character movement speed. Feel free to adjust it if it is too fast or slow under the player movement script
 
 </p>
+
