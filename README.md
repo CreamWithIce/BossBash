@@ -1,4 +1,4 @@
-![image](images/TitleCard.png)
+![image](./images/TitleCard.png)
 ## Welcome!
 <p>
 Hi there!
@@ -59,10 +59,10 @@ To stop the training press exit run time to terminate training
 
 ## Images
 
-![image](images/Game.png)
+![image](./images/Game.png)
 Playing the game
 
-![image](images/Training.png)
+![image](./images/Training.png)
 AI Training
 
 ## Final notes
